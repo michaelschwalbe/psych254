@@ -1,6 +1,6 @@
 <h1>psych254</h1>
 
-<p>This is a github repository for work I am doing in PSYCH 254, a Stanford psychology class on experimental methods</p>
+<p>This is a github repository for work I am doing in PSYCH 254, a Stanford psychology class on experimental methods.</p>
 
 <p>In this class we will be focusing on a number of research topics and tools, including (among others):</p>
 <ul>
