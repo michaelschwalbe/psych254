@@ -2,14 +2,15 @@
 
 <p>This is a github repository for work I am doing in a Stanford class on research methodology called PSYCH 254</p>
 
-<p>In this class we focus on a number of topics:</p>
+<p>In this class we will be focusing on a number of research topics and topics, among others, including:</p>
 <ul>
-<li>ethical issues in research</li>
+<li>experimental design</li>
 <li>javascript</li>
 <li>mturk</li>
+<li>HTML</li>
 <li>r scripts</li>
 <li>power analysis</li>
-<li>etc...</li>
+<li>publication bias</li>
 </ul>
 
-<p>So far in this repository i have only included a beautiful image</p>
+<p>So far in this repository I have included a jpg image i really like by Mikko Lagerstedt from Helsinki, Finland. I have labeled this image "beautiful.jpg"</p>
