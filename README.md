@@ -10,7 +10,7 @@
 <li>HTML</li>
 <li>r scripts</li>
 <li>power analysis</li>
-<li>publication bias</li>
+<li>ethical issues such as publication bias</li>
 </ul>
 
 <p>So far in this repository I have included a jpg image i really like by Mikko Lagerstedt from Helsinki, Finland. I have labeled this image <em>beautiful.jpg</em>.</p>
