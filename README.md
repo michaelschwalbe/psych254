@@ -13,4 +13,4 @@
 <li>publication bias</li>
 </ul>
 
-<p>So far in this repository I have included a jpg image i really like by Mikko Lagerstedt from Helsinki, Finland. I have labeled this image "beautiful.jpg"</p>
+<p>So far in this repository I have included a jpg image i really like by Mikko Lagerstedt from Helsinki, Finland. I have labeled this image <em>beautiful.jpg</em>.</p>
